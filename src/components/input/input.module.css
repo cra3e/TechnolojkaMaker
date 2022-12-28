@@ -1,0 +1,16 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 800px;
+    background-color: rgb(100, 100, 100);
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+.element {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
